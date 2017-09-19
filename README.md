@@ -2,4 +2,4 @@
 ___
 Implement image bulletin board such as writing and commenting<br>
 Please visit my blog for more details.<br>
-Blog : <http://blog.naver.com/ykm_m/>
+Blog : <http://blog.naver.com/ykm_m/221099880296>
